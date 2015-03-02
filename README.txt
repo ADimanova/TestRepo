@@ -5,3 +5,5 @@ Creating conflics
 
 Another conflict
 And again
+
+Fixes or smth
