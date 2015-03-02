@@ -4,3 +4,4 @@ Resolving conflicts
 Creating conflics
 
 Another conflict
+And again
